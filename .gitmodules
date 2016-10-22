@@ -1,0 +1,3 @@
+[submodule "themes/synth.michd.me-theme"]
+  path = themes/synth.michd.me-theme
+  url = git@github.com:michd/synth.michd.me-theme
