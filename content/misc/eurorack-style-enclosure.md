@@ -8,7 +8,7 @@ title = "Building a Eurorack enclosure with IKEA RAST and OpenBeam"
   <a href="/images/misc/eurorack-style-enclosure/large/glamour-shot.jpg" title="View large version">
     <img src="/images/misc/eurorack-style-enclosure/glamour-shot.jpg" alt="Glamour shot of the finished enclosure, populated with a some modules">
   </a>
-  <figcaption>Glamour shot of my finished enclosure, with all the modules I've made have so far</figcaption>
+  <figcaption>Glamour shot of my finished enclosure, with all the modules I've made so far</figcaption>
 </figure>
 
 After writing my article about the things I wish I'd known before building my original enclosure, I deciced to go ahead and undertake the massive project of converting all I had so far to eurorack proportions.
@@ -17,7 +17,7 @@ Since my project's specs don't entirely match Eurorack specification (my power i
 
 ## How much room will this get me?
 
-In height: 12 U or 40 rows of modules.
+In height: 12 U or 4 rows of modules.
 
 In width: 115 HP.
 
@@ -40,7 +40,7 @@ A few tools will be needed to build this enclosure:
 - A long ruler (one of about a meter will be helpful)
 - A small ruler for the smaller measurements
 - Pencil
-- Powerdrill
+- Power drill
 - 2.5mm drill bit
 - Screwdriver (to match the M3 screws you got)
 - Hacksaw
