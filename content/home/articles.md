@@ -2,6 +2,8 @@
 title = "Articles"
 date = "2016-10-22T23:00:00+01:00"
 +++
+## Modules
+- [ADSR Envelope Generator](/module/adsr-eg)
 
 ## Learning
 
