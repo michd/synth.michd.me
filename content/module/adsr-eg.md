@@ -53,7 +53,7 @@ The ADSR EG module described in this article is based on the one designed by Ray
   * [Free features: auto-retrigger, end-of-decay pulse output](#free-features-auto-retrigger-end-of-decay-pulse-output)
      - [Auto-retrigger](#auto-retrigger)
      - [End-of-decay output](#end-of-decay-output)
-- [Changer for different power supplies / eurorack](#changes-for-different-power-supplies-eurorack)
+- [Changes for different power supplies / eurorack](#changes-for-different-power-supplies-eurorack)
   * [Gate / trigger comparator voltage](#gate-trigger-comparator-voltage)
   * [Max ADSR output voltage](#max-adsr-output-voltage)
   * [Driving the LEDs](#driving-the-leds)
