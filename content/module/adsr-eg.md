@@ -830,4 +830,4 @@ With the panel done, it's a matter of wiring up the switches, buttons, and banan
 
 You can also watch a [Quick demo video](https://www.youtube.com/watch?v=LQK_8QNw8T4) over on Youtube, where I have one ADSR generator control filter cutoff, and the other amplitude.
 
-I hope the article has been informative. You can send me feedback through Twitter [@MichDdev](https://twitter.com/MichDdev), where we can also find other ways for lengthier feedback. I regularly post pictures of my synth DIY stuff in progress on there too.
+I hope the article has been informative. You can send me feedback through Mastodon [@MichDdev](https://mastodon.social/@MichDdev), where we can also find other ways for lengthier feedback. I regularly post pictures of my synth DIY stuff in progress on there too.
